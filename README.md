@@ -7,7 +7,7 @@
 
 ## 📌 Project Overview
 
-This project analyzes retail sales data for a U.S based store across multiple product categories, customer segments, and geographic regions. Starting from a messy raw dataset, I cleaned, transformed, and modeled the data entirely in Excel — then built an interactive dashboard to surface key business insights for a retail stakeholder.
+This project analyzes retail sales data for a U.S based store across multiple product categories, customer segments, and geographic regions. Starting from a messy raw dataset, I cleaned, transformed, and modeled the data entirely in Excel then built an interactive dashboard to surface key business insights for a retail stakeholder.
 
 The goal was to answer: **Who are our best customers? Which products and regions drive the most revenue? And how efficiently are we fulfilling orders?**
 
