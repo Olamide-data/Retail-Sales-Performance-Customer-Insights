@@ -46,6 +46,8 @@ The raw dataset contained several quality issues that required systematic cleani
 | `Order Day` | Extracted using `TEXT()` function |
 | `Customer Category` | `IF(COUNTIF(...) > 1, "Returning Customer", "New Customer")` |
 
+<img width="1080" height="540" alt="Calculated Metrics" src="https://github.com/user-attachments/assets/509ad422-fdff-4f9c-aec7-7dc2aabcc4fb" />
+
 ---
 
 ## 📊 Dashboard & Key Findings
@@ -60,10 +62,11 @@ The final dashboard presents four KPI cards and multiple interactive pivot-based
 | Total Unique Orders | **1,365** |
 | Total Unique Customers | **1,130** |
 | Average Shipping Duration | **2 days** |
-| Average Discount | **6.3%** |
+| Average Discount | **6.32%** |
+
+<img width="1280" height="498" alt="Dashboard" src="https://github.com/user-attachments/assets/2347a681-778b-49d2-b43d-1674d1957423" />
 
 ---
-
 
 ### 💡 Business Insights
 
@@ -120,7 +123,7 @@ retail-sales-analysis/
 │   └── Dashboard             # Final interactive dashboard
 │
 └── README.md
-📥 **(Download the Excel Workbook:https://1drv.ms/x/c/98E2FAE131AE12FE/IQBJHdOR2bRTTJXyA5iTDQ_bAd8kWqwBbrjHWTqtONdK7kg?e=4npjFS)**
+📥 **(Download Excel Workbook here:https://1drv.ms/x/c/98E2FAE131AE12FE/IQBJHdOR2bRTTJXyA5iTDQ_bAd8kWqwBbrjHWTqtONdK7kg?e=4npjFS)**
 ```
 
 ---
